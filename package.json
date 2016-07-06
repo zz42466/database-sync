@@ -1,0 +1,22 @@
+{
+  "name": "database-sync",
+  "version": "1.0.0",
+  "description": "数据库同步",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "zz42466",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.11.1"
+  },
+  "repository" :
+  { 
+    "type" : "git",
+    "url" : "https://github.com/zz42466/database-sync.git"
+  }
+}
